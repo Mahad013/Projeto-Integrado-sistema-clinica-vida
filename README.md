@@ -96,13 +96,15 @@ Funcionalidades: cadastro de paciente, agendamento, confirmação, cancelamento 
 
 Entrega: imagem do diagrama UML.
 
-Demonstração do Sistema
+Demonstração do Sistema feito em um atendimento completo!!
 === SISTEMA CLÍNICA VIDA+ ===
 1. Cadastrar paciente
-2. Ver estatísticas
-3. Buscar paciente
-4. Listar todos os pacientes
-5. Sair
+2. Ver fila de atendimento
+3. Chamar próximo paciente
+4. Estatísticas
+5. Buscar paciente
+6. Listar todos os pacientes
+7. Sair
 Escolha uma opção: 1
 Nome do paciente: Pedro Lima
 Idade: 27
