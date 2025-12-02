@@ -104,7 +104,8 @@ Demonstração do Sistema feito em um atendimento completo!!
 4. Estatísticas
 5. Buscar paciente
 6. Listar todos os pacientes
-7. Sair
+7. Gerar receita (PDF)
+8. Sair
 Escolha uma opção: 1
 Nome do paciente: Pedro Lima
 Idade: 27
