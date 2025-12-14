@@ -181,7 +181,6 @@ for p in fila:
 
 Diagrama UML
 
-Inserir imagem do diagrama aqui: untitled.vpp://diagram/DouK61mFYFVgAQka
 Diagrama feito no aplicativo: https://www.visual-paradigm.com
 
 
